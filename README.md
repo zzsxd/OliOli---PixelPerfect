@@ -2,7 +2,7 @@
 
 A responsive PHP landing page for OLIOLI, designed using a pixel-perfect layout. The layout is ready for standalone launch and integration with OpenCart 3.0.4.0.
 
-## Скриншоты
+## Screenshots
 
 ### Desktop 1440px
 
